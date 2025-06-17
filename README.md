@@ -2,13 +2,6 @@
 
 A Python automation script that extracts email addresses from comments on any LinkedIn post and saves them to a CSV file.
 
-## ✍️ Author
-
-**Suraj Van Verma**  
-Created: June 2025  
-Contact: [suraj.verma@mail.mcgill.ca](mailto:suraj.verma@mail.mcgill.ca)  
-Website: [bythebug.github.io](https://bythebug.github.io)
-
 ## 📌 Features
 
 - 🔍 Extracts email addresses from public LinkedIn post comments
