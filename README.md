@@ -2,16 +2,12 @@
 
 A Python automation script that extracts email addresses from comments on any LinkedIn post and saves them to a CSV file.
 
----
-
 ## ✍️ Author
 
 **Suraj Van Verma**  
 Created: June 2025  
 Contact: [suraj.verma@mail.mcgill.ca](mailto:suraj.verma@mail.mcgill.ca)  
 Website: [bythebug.github.io](https://bythebug.github.io)
-
----
 
 ## 📌 Features
 
@@ -20,8 +16,6 @@ Website: [bythebug.github.io](https://bythebug.github.io)
 - ✅ Skips duplicates and plain email-only comments (optional)
 - 🗂️ Auto-versioned output files (no overwriting)
 - 🖥️ Uses your own Chrome session (no headless or login automation)
-
----
 
 ## ⚙️ Requirements
 
@@ -35,8 +29,6 @@ Website: [bythebug.github.io](https://bythebug.github.io)
 ```bash
 pip install selenium pandas
 ```
-
----
 
 ## 🚀 How to Use
 
@@ -57,8 +49,6 @@ python3 linkedin_scraper.py
 4. A Chrome window will open:
    - Log in to LinkedIn if needed
    - The script will scroll and extract all visible comments
-
----
 
 ## 📂 Output
 
@@ -82,20 +72,14 @@ linkedin_emails_with_comments_2.csv
 | Saurav Mehta      | saurav@xyz.com   | Please connect at saurav@...     |
 | —                 | user@gmail.com   | user@gmail.com                   |
 
----
-
 ## 🛡️ Disclaimer
 
 > This script is intended for personal use only.  
 > Scraping LinkedIn at scale may violate their [Terms of Service](https://www.linkedin.com/legal/user-agreement).  
 > Use responsibly and ethically.
 
----
-
 ## 🙌 Acknowledgements
 
 - Built with ❤️ by Suraj Verma  
 - Inspired by creators, mentors, and productivity tools  
 - Connect on [LinkedIn](https://www.linkedin.com/in/bythebug)
-
----
